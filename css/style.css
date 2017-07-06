@@ -794,7 +794,7 @@ div.frst-opis span {
 @media (max-width: 1000px) {
     .navbar-logo {
         transform: translate(-50%,0%);
-        top: 13%;
+        top: 16%;
     }
     .main {
         position: inherit; 
